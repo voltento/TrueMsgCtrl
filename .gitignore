@@ -1,2 +1,3 @@
 build*
 ./test/TrueMsgCtrl.pro.user
+test/TrueMsgCtrl.pro.user.*
